@@ -19,8 +19,6 @@ html , body {
     
 }
 
-
-
 .side1 {
     margin-left: 10px;
 }
@@ -42,7 +40,6 @@ html , body {
 .side4 {
     margin-left: 150px;
 }
-
 
 .side {
     margin-right: 80%;
@@ -85,7 +82,6 @@ html , body {
     
 }
 
-
 #foot {    
     margin-bottom: 10px;
     padding: 15px;
@@ -97,3 +93,19 @@ html , body {
     text-align: center;
 }
 
+.block {
+    margin-left: 10px;
+    margin-right: 5px;
+    border: 5px solid #333;
+    color: black;
+    padding: 5px;
+}
+.linking {
+    margin-right: 80%;
+    margin-left: 10px;
+    border: 5px solid #333;
+    background-color:slategrey;
+    color: #fff;
+    margin-bottom: 15px;
+    padding: 10px;
+}
